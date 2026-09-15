@@ -10,15 +10,15 @@
 
 ```yaml
 name: Ilya
-role: Full Stack Developer
+role: Developer
 experience: 3+ years
 location: Moscow, Russia 🇷🇺
 stack: Python, SQL, Java, React
 focus:
   - High-load systems
-  - Scalable architecture
   - Data science
-website: moscilez.com
+  - Scalable architecture
+  website: moscilez.com
 status: Open for opportunities
 ```
 
