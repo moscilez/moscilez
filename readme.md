@@ -84,6 +84,6 @@ status: Open for opportunities
 
 [![Website](https://img.shields.io/badge/🌐_moscilez.com-0d1117?style=for-the-badge)](https://moscilez.com/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moscilez)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ileztom)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moscilez)
 
 </div>
